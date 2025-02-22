@@ -1,0 +1,3 @@
+Pixel(0, 0, 'red')
+Pixel(1, 2, 'blue')
+Pixel(3, 4, 'green')
